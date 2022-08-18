@@ -1,0 +1,439 @@
+fileFormatVersion: 2
+guid: 87c7ae34f15b6bc44b41a4023d5ac8ec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2441583050439370576
+    second: StartingZone
+  - first:
+      213: -2515945777801593221
+    second: B
+  - first:
+      213: -4454728463099490016
+    second: L
+  - first:
+      213: -8168908124023133086
+    second: LR
+  - first:
+      213: -7320259657698634078
+    second: R
+  - first:
+      213: 793589202457674812
+    second: BR
+  - first:
+      213: -2436822692973550986
+    second: T
+  - first:
+      213: 459466896150546753
+    second: TB
+  - first:
+      213: -3370782583979660518
+    second: LT
+  - first:
+      213: -323938027265075685
+    second: TR
+  - first:
+      213: 5585705370768730251
+    second: KotakPutih_10
+  - first:
+      213: 6560439421486585879
+    second: KotakPutih_11
+  - first:
+      213: -2311869192504849914
+    second: KotakPutih_12
+  - first:
+      213: 2238408792150692028
+    second: KotakPutih_13
+  - first:
+      213: -2887820658166944701
+    second: KotakPutih_14
+  - first:
+      213: 4134418343713902338
+    second: KotakPutih_15
+  - first:
+      213: 5575366280052323542
+    second: KotakPutih_16
+  - first:
+      213: -9127750924180192917
+    second: KotakPutih_17
+  - first:
+      213: -7150490483038751372
+    second: KotakPutih_18
+  - first:
+      213: -5739830564052277367
+    second: KotakPutih_19
+  - first:
+      213: -2253338701039541666
+    second: KotakPutih_20
+  - first:
+      213: 7794933573160173245
+    second: KotakPutih_21
+  - first:
+      213: 643067728963013143
+    second: KotakPutih_22
+  - first:
+      213: 2384602022451283297
+    second: KotakPutih_23
+  - first:
+      213: 1918356457034796608
+    second: KotakPutih_24
+  - first:
+      213: -47336117096646589
+    second: KotakPutih_25
+  - first:
+      213: 2895578320719063874
+    second: KotakPutih_26
+  - first:
+      213: -8898385383282468145
+    second: KotakPutih_27
+  - first:
+      213: 8568942792055627753
+    second: KotakPutih_28
+  - first:
+      213: -6109703896754534088
+    second: KotakPutih_29
+  - first:
+      213: -5233392709597108410
+    second: KotakPutih_30
+  - first:
+      213: -8292696386893402653
+    second: KotakPutih_31
+  - first:
+      213: 2622407156867621892
+    second: KotakPutih_32
+  - first:
+      213: -2889021545470729943
+    second: KotakPutih_33
+  - first:
+      213: -591793686118377783
+    second: KotakPutih_34
+  - first:
+      213: -7406424671089245005
+    second: KotakPutih_35
+  - first:
+      213: 6535898171914280398
+    second: KotakPutih_36
+  - first:
+      213: 210545593522206004
+    second: KotakPutih_37
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StartingZone
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16bf4dd6a0fb2d24b9ac1877f1e66981
+      internalID: -2441583050439370576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c441f6dbf1cf7514c9da16f76df7237b
+      internalID: -2515945777801593221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a00af77241a3f64d9f5656ddceddd83
+      internalID: -4454728463099490016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LR
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e398d4d636ec2a4883e72a429cf01a3
+      internalID: -8168908124023133086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41b7c4c5c6bac1408160f5f24904d99
+      internalID: -7320259657698634078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BR
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85d8241a79d79b43a76f185b9aec674
+      internalID: 793589202457674812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e9d260a9b489a4e9b2634f7abfe8f7
+      internalID: -2436822692973550986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TB
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed05cb1229cc6944bddfd2fac0f8d37
+      internalID: 459466896150546753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LT
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5afa401f06a59c14db2e43c3cb961f04
+      internalID: -3370782583979660518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TR
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80c4a7fce32cdf459f8fb41513f1324
+      internalID: -323938027265075685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

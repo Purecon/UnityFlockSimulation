@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6beaff548a4901e428592136858b7d0e, type: 3}
+  m_Name: FireBehaviourExample
+  m_EditorClassIdentifier: 
+  behaviors:
+  - {fileID: 11400000, guid: 240259bdc499d7f4fb21922ae84bf14c, type: 2}
+  - {fileID: 11400000, guid: 45bdcc174f6f6bc458966669de15089c, type: 2}
+  - {fileID: 11400000, guid: 17cd3f7cef2285442ad1de15814d29f5, type: 2}
+  - {fileID: 11400000, guid: 933f0f5e4b6c4c44c88b11bbb980cdf1, type: 2}
+  - {fileID: 11400000, guid: ee89755a85c78ab40bf8d73b00f381cf, type: 2}
+  weights:
+  - 4
+  - 1
+  - 2
+  - 4
+  - 4

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b16d7f99f970ec4aba41306972eb63a, type: 3}
+  m_Name: Cube Behaviour 3D
+  m_EditorClassIdentifier: 
+  behaviors:
+  - {fileID: 11400000, guid: 9876963cb02363c4cbf8d7cfcf353c1c, type: 2}
+  - {fileID: 11400000, guid: 309097ca6c533c848ace68988b6fea56, type: 2}
+  - {fileID: 11400000, guid: 473c6a54ca64fdf46aa66343170f0e80, type: 2}
+  - {fileID: 11400000, guid: 046a60a4db8b74f4c8ae4bebdc4726aa, type: 2}
+  - {fileID: 11400000, guid: 626c0725f7f703f4497f4515ebbcda3b, type: 2}
+  weights:
+  - 1
+  - 999
+  - 2
+  - 4
+  - 4
